@@ -1,0 +1,32 @@
+ * {
+   border: 1px solid red;
+ 
+}
+
+body {
+    background-color: hsl(128, 100%, 50%);
+    font-size: medium;
+    color: aliceblue;
+}
+h1 {
+   color: #00ffffe8;
+}
+h2 {
+   color: rgb(0, 255, 242);
+}
+p {
+   color: #FF0022;
+}
+.gray {
+   color: rgb(217, 255, 0);
+}
+#second {
+   font-style: italic;
+}
+.highlight {
+   text-transform: uppercase;
+   background-color: brown;
+}
+.highlight {
+   font-style:italic;
+}
